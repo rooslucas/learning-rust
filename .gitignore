@@ -12,4 +12,8 @@ Cargo.lock
 "Icon\r"
 Icon\\r
 Icon
-.DS_StoreIconIcon
+.DS_StoreIcon
+
+Icon
+
+**/target
